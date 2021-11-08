@@ -1,4 +1,5 @@
-# mac Os installation help
+## fatal error: 'postgres.h' file not found solution for macOs :)
+# mac Os installation help for missing postgres.h 
 you may encounter `postgres.h file not found` error on macOs 10.11+ 
 we need a workaround for it
 
